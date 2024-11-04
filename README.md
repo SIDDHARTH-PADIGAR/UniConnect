@@ -2,6 +2,8 @@
 
 UniConnect is a platform designed to bridge communication gaps in university communities. Born out of necessity, this project aims to prevent missed opportunities for students by providing a streamlined, accessible hub for campus events, club announcements, and peer networking. No more missing out due to outdated WhatsApp groups—UniConnect puts university life at your fingertips.
 
+[Visit the Live Site](https://vrv51357.pythonanywhere.com/)
+
 ![UniConnect Preview](path/to/your-image.png) <!-- Update this path with your actual image path -->
 
 ---
@@ -14,6 +16,7 @@ UniConnect is a platform designed to bridge communication gaps in university com
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
