@@ -48,4 +48,5 @@ UniConnect is built on a solid foundation using the following technologies:
 
 ## Contributors
 
-- **VRVio** - Contributed majorly to the frontend and database schema
+- [VRVio](https://github.com/VRVio) - Contributed majorly to the frontend and database schema
+
